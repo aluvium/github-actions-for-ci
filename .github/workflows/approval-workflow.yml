@@ -1,1 +1,2 @@
 name: New workfolow for approval
+on: pull_request_review
