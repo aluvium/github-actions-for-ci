@@ -1,2 +1,6 @@
 name: New workfolow for approval
 on: pull_request_review
+
+jobs:
+  lablelWhenApproved:
+    runs-on: ubuntu-latest
